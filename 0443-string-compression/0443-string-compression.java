@@ -7,10 +7,9 @@ class Solution {
 
             if (i == chars.length - 1 || chars[i] != chars[i + 1]) {
                 sb.append(chars[i]);
-
-                if (count > 1) {
+                    if (count > 1) {
                     sb.append(count);
-                }
+                    }
 
                 count = 0;
             }
