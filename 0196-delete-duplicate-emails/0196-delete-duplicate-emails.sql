@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-with ct as(select *, rank() over(partition by email order by id) as rnk 
+with ct as(select *, dense_rank() over(partition by email order by id) as rnk 
 from Person )
 
 Delete from Person
