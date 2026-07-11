@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shwet0007/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/shwet0007/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
 ## Backtracking
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/shwet0007/Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/shwet0007/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shwet0007/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
