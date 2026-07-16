@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shwet0007/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shwet0007/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/shwet0007/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
