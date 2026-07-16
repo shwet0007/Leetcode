@@ -4,8 +4,20 @@ class Solution {
 
         for (int i = 0; i < strs.length; i++) {
             String str = strs[i];
+            boolean isNumber = true;
+
+            for (int j = 0; j < str.length(); j++) {
+                char ch = str.charAt(j);
+
+                if (ch < '0' || ch > '9') {
+                    isNumber = false;
+                    break;
+                }
+            }
+
             int value;
-            if (str.matches("\\d+")) {
+
+            if (isNumber) {
                 value = Integer.parseInt(str);
             } else {
                 value = str.length();
