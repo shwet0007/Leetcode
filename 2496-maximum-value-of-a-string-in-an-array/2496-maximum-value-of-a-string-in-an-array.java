@@ -1,31 +1,25 @@
 class Solution {
     public int maximumValue(String[] strs) {
-        int maxValue = 0;
+        int maxVal = 0;
+        for(int i=0;i<strs.length;i++){
+            String current = strs[i];
+            boolean isNum = true;
 
-        for (int i = 0; i < strs.length; i++) {
-            String str = strs[i];
-            boolean isNumber = true;
-
-            for (int j = 0; j < str.length(); j++) {
-                char ch = str.charAt(j);
-
-                if (ch < '0' || ch > '9') {
-                    isNumber = false;
+            for(int j=0;j<current.length();j++){
+                char ch = current.charAt(j);
+                if(ch < '0' || ch > '9'){
+                    isNum = false;
                     break;
                 }
             }
-
-            int value;
-
-            if (isNumber) {
-                value = Integer.parseInt(str);
-            } else {
-                value = str.length();
+            int val;
+            if(isNum){
+                val = Integer.parseInt(current);
+            }else{
+                val = current.length();
             }
-
-            maxValue = Math.max(maxValue, value);
+            maxVal = Math.max(val,maxVal);
         }
-
-        return maxValue;
+        return maxVal;
     }
 }
