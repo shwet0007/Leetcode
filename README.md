@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shwet0007/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Backtracking
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/shwet0007/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
