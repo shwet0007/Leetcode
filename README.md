@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shwet0007/Leetcode/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwet0007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shwet0007/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwet0007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shwet0007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/shwet0007/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/shwet0007/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwet0007/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shwet0007/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shwet0007/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/shwet0007/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shwet0007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
