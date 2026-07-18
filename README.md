@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shwet0007/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shwet0007/Leetcode/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/shwet0007/Leetcode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/shwet0007/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
