@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shwet0007/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/shwet0007/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Backtracking
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shwet0007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/shwet0007/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
