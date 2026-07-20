@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shwet0007/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/shwet0007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/shwet0007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shwet0007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shwet0007/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shwet0007/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shwet0007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/shwet0007/Leetcode/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/shwet0007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shwet0007/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shwet0007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/shwet0007/Leetcode/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/shwet0007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shwet0007/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
