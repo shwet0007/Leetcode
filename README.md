@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shwet0007/Leetcode/tree/master/0050-powx-n) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shwet0007/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shwet0007/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/shwet0007/Leetcode/tree/master/1260-shift-2d-grid) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shwet0007/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
