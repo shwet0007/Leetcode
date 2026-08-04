@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shwet0007/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/shwet0007/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [3731-find-missing-elements](https://github.com/shwet0007/Leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shwet0007/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shwet0007/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/shwet0007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/shwet0007/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
