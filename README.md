@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/shwet0007/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwet0007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shwet0007/Leetcode/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/shwet0007/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/shwet0007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shwet0007/Leetcode/tree/master/1051-height-checker) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shwet0007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/shwet0007/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwet0007/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 | [0977-squares-of-a-sorted-array](https://github.com/shwet0007/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shwet0007/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shwet0007/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shwet0007/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shwet0007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 | [1207-unique-number-of-occurrences](https://github.com/shwet0007/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/shwet0007/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/shwet0007/Leetcode/tree/master/3731-find-missing-elements) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shwet0007/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shwet0007/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shwet0007/Leetcode/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 | [1768-merge-strings-alternately](https://github.com/shwet0007/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/shwet0007/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shwet0007/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shwet0007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwet0007/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shwet0007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shwet0007/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwet0007/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/shwet0007/Leetcode/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
